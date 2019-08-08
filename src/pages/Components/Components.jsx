@@ -51,9 +51,11 @@ class Components extends React.Component {
             <GridContainer>
               <GridItem>
                 <div className={classes.brand}>
-                  <h1 className={classes.title}>Material Kit React.</h1>
+                  <h1 className={classes.title}> 
+                    <a href="https://www.gatsbyjs.org/">Gatsby</a> Material Design 
+                  </h1>
                   <h3 className={classes.subtitle}>
-                    A Badass Material-UI Kit based on Material Design.
+                    <a href="https://github.com/app-generator/gatsby-material-kit-react">Open-Source</a> app, released under the MIT license.
                   </h3>
                 </div>
               </GridItem>
