@@ -5,6 +5,11 @@ Open-source app built with GatsbyJS on top of HTML5Up Material Kit design.
 
 <br />
 
+![GatsbyJS Material Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-material-kit-react-intro.gif?raw=true)
+
+<br />
+
+
 ## How to use it
 - Clone this repo `git clone https://github.com/app-generator/gatsby-material-kit-react.git`
 - change directory to `gatsby-material-kit-react`
