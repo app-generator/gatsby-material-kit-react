@@ -1,11 +1,11 @@
 # [GatsbyJS Material Kit](https://appseed.us/apps/gatsbyjs/gatsby-material-kit-react)
 
-Open-source app built with GatsbyJS on top of HTML5Up Material Kit design. 
+Open-source app built with GatsbyJS on top of HTML5Up Material Kit design.
 **Forked from [this](https://github.com/WebCu/gatsby-material-kit-react) project.**
 
 <br />
 
-![GatsbyJS Material Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-material-kit-react-intro.gif?raw=true)
+![GatsbyJS Material Kit - Open-Source GatsbyJS Starter.](https://raw.githubusercontent.com/app-generator/gatsby-material-kit-react/master/media/gatsby-material-kit-react-screen.png)
 
 <br />
 
@@ -21,14 +21,14 @@ Open-source app built with GatsbyJS on top of HTML5Up Material Kit design.
 
 ## Support
 
-For Support please access the [Support](https://appseed.us/support) provided by **AppSeed** 
+For Support please access the [Support](https://appseed.us/support) provided by **AppSeed**
 
 <br />
 
 ## Resources
  
- - [GatsbyJS](https://www.gatsbyjs.org/)
- - More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
+- [GatsbyJS](https://www.gatsbyjs.org/)
+- More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
 
 <br />
 
