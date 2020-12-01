@@ -1,7 +1,8 @@
 # [GatsbyJS Material Kit](https://appseed.us/apps/gatsbyjs/gatsby-material-kit-react)
 
 Open-source app built with GatsbyJS on top of HTML5Up Material Kit design.
-**Forked from [this](https://github.com/WebCu/gatsby-material-kit-react) project.**
+
+> Originally coded by **[WebCu](https://github.com/WebCu/)**.
 
 <br />
 
